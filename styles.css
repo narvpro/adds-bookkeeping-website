@@ -485,10 +485,11 @@ ul { list-style: none; }
 }
 .service-card-featured::before { background: linear-gradient(90deg, var(--red), var(--red-light)); }
 .service-card-featured:hover { transform: translateY(-8px); }
-.service-card-featured h3,
-.service-card-featured p    { color: var(--white); }
-.service-card-featured .service-features li { color: rgba(255,255,255,.75); }
-.service-card-featured .service-features li::before { color: var(--red-light); }
+/* Higher specificity so these override the base .service-card h3/p rules below */
+.service-card.service-card-featured h3 { color: var(--white); }
+.service-card.service-card-featured p  { color: rgba(255,255,255,.9); }
+.service-card.service-card-featured .service-features li { color: rgba(255,255,255,.8); }
+.service-card.service-card-featured .service-features li::before { color: var(--red-light); }
 
 .service-badge {
   display: inline-block;
