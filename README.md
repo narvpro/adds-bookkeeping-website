@@ -5,7 +5,7 @@ Official website for **ADDS and Bookkeeping Solutions Co.** — a professional b
 ## Contact
 - 📍 Blk. 69 Lot 5 Rosalina Village 3, Dumoy Toril, Davao City
 - 📞 0917 822 7241
-- ✉️ mrnbordios@yahoo.com
+- ✉️ mrnbordios0610@gmail.com
 
 ## Services
 Bookkeeping · Payroll Processing · BIR Tax Filing · Financial Reporting · Business Registration · Accounting Consultation
